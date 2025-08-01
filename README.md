@@ -40,15 +40,16 @@
           <img aling ="center" alt= "Milena-HTML" height="50" widht="75" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
         </div>
       </td>
-      <td align="center">
-        <div align="left">
-	        <img aling ="center" alt= "NodeJS" height="50" widht="75" src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
-          <img aling ="center" alt= "Spring" height="50" widht="75" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-         <img align="center" alt="Angular" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
-          <img align="center" alt="JSF" height="50" width="75" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg-f1CaCAoVA-QQ3RQykEYGMDCXXoQg0PWu_e87LtR8gyG1yq5wbEoZM2-oHFP98k6WZm9cBqcRpQTlzi3-T2LpiRwDOKqRDwK1AolN0aphDMS4OKxCqTMM1gArHaLLz5HPUT3sNOo5Q/s1600/JSF-Logo-2+-+small.png)">
-        <div align="left">
-          </td>
-      </tr>
+    <td align="center">
+  <h1 align="left">Tools and Frameworks</h1>
+  <div align="left">
+    <img align="center" alt="NodeJS" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+    <img align="center" alt="Spring" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+    <img align="center" alt="Angular" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+    <img align="center" alt="JSF" height="50" width="75" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg-f1CaCAoVA-QQ3RQykEYGMDCXXoQg0PWu_e87LtR8gyG1yq5wbEoZM2-oHFP98k6WZm9cBqcRpQTlzi3-T2LpiRwDOKqRDwK1AolN0aphDMS4OKxCqTMM1gArHaLLz5HPUT3sNOo5Q/s1600/JSF-Logo-2+-+small.png" />
+    <img align="center" alt="Docker" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  </div>
+</td>
   </table>
 </div>
 
