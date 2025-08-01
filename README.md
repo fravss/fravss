@@ -41,7 +41,6 @@
         </div>
       </td>
     <td align="center">
-  <h1 align="left">Tools and Frameworks</h1>
   <div align="left">
     <img align="center" alt="NodeJS" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
     <img align="center" alt="Spring" height="50" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
